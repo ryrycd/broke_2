@@ -9,9 +9,9 @@
     Open Source iOS App for Minimalist Smartphone Use
     <br />
     <br />
-    <a href="https://github.com/OzTamir/broke/issues">Report Bug</a>
+    <a href="https://github.com/ryrycd/broke_2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/OzTamir/broke/issues">Request Feature</a>
+    <a href="https://github.com/ryrycd/broke_2/issues">Request Feature</a>
   </p>
 </div>
 Welcome to Broke, an open-source alternative to Brick that lets you experience minimalist smartphone use.
